@@ -58,7 +58,7 @@
  
  2. Add gap to tricolor flag
 
-![](screenshots/day_1_tricolor_stretch.png)
+![](screenshots/day_2_tricolor_stretch.png)
 
  3. **stretch** [NewYork Times Layout without font styles](https://github.com/McLarenCollege/day_2_nytimes_assignment)
  

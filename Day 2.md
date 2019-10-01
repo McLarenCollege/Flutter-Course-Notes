@@ -63,5 +63,6 @@
  ![](screenshots/NYtimes%20Assignment.png)
 
 
-
+3. Stretch - Add styles to text and icons at the bottom to make it look like this
  
+ ![](screenshots/Day%202%20Stretch%20Layout.png)

@@ -53,6 +53,7 @@
 ## Exercises for the day:
 
  1. Design the layout given below 
+ [Starter Repository](https://github.com/McLarenCollege/day_2_layout_assignment)
  
  ![](screenshots/day_2_layout_assignment.png)
  

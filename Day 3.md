@@ -29,7 +29,7 @@ pubspec.yaml file is like an index of all your supporting files like images and 
 
 ![](screenshots/Ny%20Times%20final.png)
 
-4. Design this layout (1/3rd text and 2/3rd image)
+4. Design this layout (1/3rd text and 2/3rd image) - [Starter Repository](https://github.com/McLarenCollege/day_3_assignment_4)
 
 ![](screenshots/Day%203%20Layout%20.png)
 

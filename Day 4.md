@@ -12,8 +12,6 @@
     
     ![](screenshots/PassGenerator.png)
     
-    ![](screenshots/Password%20Generator%20Demo.gif)
-    
     - **Stretch** 
         1. Use [this package](https://pub.dev/packages/english_words) to get random words
         2. Make the output camel case 
@@ -21,7 +19,10 @@
 2. Movies app assignment - [Starter Repo](https://github.com/McLarenCollege/day_4_movies_assignment)
     ![](screenshots/Movies_assignment.png)
     
+3. **Stretch** Make the Recipe image full height on screen like this:
+
+![](screenshots/stretch%20day%204.png)
 
 3. **stretch** Translate App design
 
- 
+ ![](screenshots/Stretch%20Day%203.png) 

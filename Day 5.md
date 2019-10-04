@@ -17,19 +17,20 @@
 
 3. In Password generator app created yesterday
    - Use [this package](https://pub.dev/packages/english_words) to get random words
-   - Make the output camel case  (HINT: Google) -- 30 mins --
+   - Make the output camel case  (HINT: Google) 
 
 4.  Layout for the next day's project `QuizApp`
+[Starter Repo](https://github.com/McLarenCollege/quiz_app)
 
-![Layout Exercise](screenshots/day_4_layout_exercise.png) -- 30 mins --
+![Layout Exercise](screenshots/day_4_layout_exercise.png) 
 
-5. Carousel package to show all posters in caraousel.
+5. Use this [Carousel package](https://pub.dev/packages/carousel_slider) to show all posters in caraousel.
 
 ![](screenshots/Movie%20Posters%20Carousel.gif)
 
 ![](screenshots/Movies%20Carousel.png)
 
-6. Music Player App
+6. Music Player App [Starter Repo](https://github.com/McLarenCollege/spotify_player_clone)
     - Layout like Spotify 
     
     ![](screenshots/Day%205%20Spotify.png)

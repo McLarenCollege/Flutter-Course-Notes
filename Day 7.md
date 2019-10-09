@@ -12,7 +12,13 @@
 
 ![](screenshots/Day%207%20Quizlr%20Final.png)
 
-4. Kismet App [Starter Repo]() DO NOT START WORKING ON THIS RIGHT NOW
+4. Kismet App [Starter Repo](https://github.com/McLarenCollege/day_7_kismet) 
+
+Use the TODO tab at the bottom of Android Studio to see all things to be done
+
+![](screenshots/KismetApp%20Demo.gif)
+
+![](screenshots/Kismet%20App%20Final.png)Kismet App Final
 
 5. Fit & Finish [Recipe App, refer here for images](https://github.com/McLarenCollege/Flutter-Course-Notes/blob/master/Day%206.md)
 

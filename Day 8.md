@@ -19,7 +19,7 @@ Steps
 ![](screenshots/TicTacLayout.png)
 
 4. **Stretch** Make a math Quiz App as shown
-
+- You will have to figure out how to use text input field in flutter using a controller
 [Starter Repository](https://github.com/McLarenCollege/math_wizard_starter)
 
 Layout: ![](screenshots/MathWiz%20.png)

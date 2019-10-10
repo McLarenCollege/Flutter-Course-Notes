@@ -14,9 +14,9 @@
     - Sizedbox
     - Remove unnecessary widgets
     
-You can use Nexus 4 Android device
+You should use Nexus 4 Android device
     
 ![](screenshots/recipe-small-landscape.png)
-    ![](screenshots/recipe-small-landscape.png)
-    ![](screenshots/recipe-large-landscape.png)
-    ![](screenshots/recipe-large-portrait.png)
+![](screenshots/recipe-small-portrait.png)
+![](screenshots/recipe-large-landscape.png)
+![](screenshots/recipe-large-portrait.png)

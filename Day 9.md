@@ -18,8 +18,8 @@ We stopped at this point so please make sure to check in your code with this lay
 
 ![](screenshots/BMI%20Pink%20Thumb.png)
 
-4. TicTacToe app add 'X' and 'O' when tapped, Use 'times' and 'circle' icon from FontAwesome package
-(Overriding is allowed) (Reset not functional)
+4. TicTacToe app add 'X' and 'O' when tapped, Use 'close' icon from Flutter Icons and 'circle' icon from FontAwesome package
+(Overriding is allowed) (Reset button not functional is fine)
 
 ![](screenshots/Filled%20TicTacToe.png)
 

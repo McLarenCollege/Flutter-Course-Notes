@@ -3,6 +3,9 @@
 ## Exercises for the day
 - Morning Challenge [Starter Repo](https://github.com/McLarenCollege/day_10_morning_challenge)
 - Navigation Demo [Starter Repo](https://github.com/McLarenCollege/navigation_demo)
+
+![](screenshots/Navigation%20Demo.gif)
+
 - BMI Details page [Design here](https://dribbble.com/shots/4585382-Simple-BMI-Calculator/attachments/1036693)
 
 - **Stretch** TicTacToe Winning

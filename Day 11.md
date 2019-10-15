@@ -12,14 +12,9 @@
     - Highlight Winning Cells
       
     ![](screenshots/TicTac%20Winning.png)
+  
     
-3. Kismet App Improvements
-    - As of now we are using if/else blocks to navigate the stories. Imagine having longer stories, it would mean more if/else block.
-    Basically not a scalable way of creating app.
-    - Use the [JSON data](https://gist.githubusercontent.com/McLarenCollege/45f2c0107d9436b2f64a588cbd243a6a/raw/09fb409998a24a5dfdf0f7b378e58284c9e3423e/kismet_story.json) to modify the `story` class 
-    - Refactor storyBrain 
-    
-4. Climate App Layout [Starter Repo](https://github.com/McLarenCollege/climate_app)
+3. Climate App Layout [Starter Repo](https://github.com/McLarenCollege/climate_app)
     - Font used - Spartan MB
     - Background Images used on screens should have color filter to account for white text
     
@@ -28,6 +23,13 @@
     
     Screen 2
     ![](screenshots/Climate%20Screen%202.png)
+    
+  
+4. **Stretch**  Kismet App Improvements
+    - As of now we are using if/else blocks to navigate the stories. Imagine having longer stories, it would mean more if/else block.
+    Basically not a scalable way of creating app.
+    - Use the [JSON data](https://gist.githubusercontent.com/McLarenCollege/45f2c0107d9436b2f64a588cbd243a6a/raw/09fb409998a24a5dfdf0f7b378e58284c9e3423e/kismet_story.json) to modify the `story` class 
+    - Refactor storyBrain 
     
 5. **Stretch** Quotes Application
     - Build Quotes app from Scratch

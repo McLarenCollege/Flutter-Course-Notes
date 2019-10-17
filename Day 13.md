@@ -7,7 +7,6 @@
 2. Weather App Part 2
     - Get weather for a particular city now   
     - Add Text field and make it searchable for any location
-    - Add new method to NetworkHelper class to fetch weather of a city
     - Add try/catch again in loading screen to show the alert if location permission is not available
     
     ![](screenshots/City%20Search%20Screen.png)

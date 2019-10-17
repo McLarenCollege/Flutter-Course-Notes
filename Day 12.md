@@ -20,13 +20,13 @@
     - Use the [JSON data](https://gist.githubusercontent.com/McLarenCollege/45f2c0107d9436b2f64a588cbd243a6a/raw/09fb409998a24a5dfdf0f7b378e58284c9e3423e/kismet_story.json) to modify the `story` class 
     - Refactor storyBrain 
     
-4. Quotes Application
+4. **Stretch** Quotes Application
     - Build Quotes app from Scratch [Starter Repository](https://github.com/McLarenCollege/quotes_app_starter)
     - The starter repo contains bare minimum layout
     - Make a network request to `https://favqs.com/api/qotd`
     - design the layout and display the quotes
     
-    - **Stretch** Create quote class (You decide the fields)
-    - **Stretch** Use the class to convert json to list of quotes
+    - Create quote class (You decide the fields)
+    - Use the class to convert json to list of quotes
     
     ![](screenshots/QuotesApp%20UI.png)

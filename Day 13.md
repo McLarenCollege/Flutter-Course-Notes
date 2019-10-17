@@ -26,7 +26,7 @@
     
     ![](screenshots/QuotesApp%20UI.png)
     
-5. Quotes Application (if done yesterday)
+5. Quotes Application Network animation
     - Add animation while user is waiting
     ![](screenshots/quotesAnimationDemo.gif)
     

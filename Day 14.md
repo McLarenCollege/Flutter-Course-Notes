@@ -1,4 +1,4 @@
-# Day 13 - Refactoring Tic Tac Toe
+# Day 14 - Refactoring Tic Tac Toe
 
 1. Fit and finish
     - Better background
@@ -22,3 +22,35 @@
 
 5. Don't duplicate code which creates cells and rows
  
+## Assignment for the Day!
+
+### 1. Refactoring from morning
+### 2. New York Times Clone - This is what you have to make
+
+![](screenshots/DemoNewYorkTImes-min.gif)
+
+#### Steps to achieve this
+1. Use this [starter repo](https://github.com/McLarenCollege/newyork_times_clone_starter) and make a `NewsCard` Widget, add it to NewsListPage
+ - You can add any content you like at this point but get the layout right
+ 
+![](screenshots/news_card.png)
+ 
+2. Repeat the `NewsCard` in a `ListView` to make screen scrollable, you can have different content on these cards to have something like this
+
+![](screenshots/NewYorkScreen%20Layout.png)
+
+3. Fetch Real Data from `https://newsapi.org`, you will have to sign up for free account to get api key
+    - Create a network helper to call the api, parse the data into list of newsItem
+    - Make sure to handle scenarios when you are not given `urlToImage` parameter 
+    
+4. Use the fetched data and `ListView.builder` to build list of real news
+
+5. On tap of any news Item open the news detail page (new widget `NewsDetailPage`) which looks like this
+    - Make sure it is scrollable
+    - the caption of image is a placeholder text as the API doesn't supply that
+    
+![](screenshots/NewsDetailPage%200.png)
+
+![](screenshots/NewsDetailPage.png)
+
+6. Pass the real data from newsCard to `NewsDetailPage` 

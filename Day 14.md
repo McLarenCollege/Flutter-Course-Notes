@@ -14,17 +14,20 @@
     - Use List<List<Token>> for colorBoard
     - use a method to convert enum or bool to the appropriate widget
 
-4. Use Token instead of String to represent current player
+4. Don't duplicate code which creates cells and rows
+
+5.  Use Token instead of String to represent current player
     - Refactor winnerPopup() into two distinct functions: 
         1. Change player if game is not finished
         2. Get the status text   
     - Write test cases to each new function
-
-5. Don't duplicate code which creates cells and rows
+6. Use `GestureDetector` instead of FlatButton
  
 ## Assignment for the Day!
 
 ### 1. Refactoring from morning
+- Do points 1, 2, 3 and 4 from above
+    
 ### 2. New York Times Clone - This is what you have to make
 
 ![](screenshots/DemoNewYorkTImes-min.gif)

@@ -30,6 +30,8 @@
     
 ### 2. New York Times Clone - This is what you have to make
 
+[Video Link](https://drive.google.com/file/d/1N9BqJLLqvOH7Mz2pSouBgsbryc4zBM_A/view?usp=sharing)
+
 ![](screenshots/DemoNewYorkTImes-min.gif)
 
 #### Steps to achieve this

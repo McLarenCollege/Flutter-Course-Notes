@@ -7,7 +7,7 @@
 - Think about edge cases
 
 
-## How to fix errors?
+# How to fix errors?
 
  1. Read and try to understand error messages
  2. Compare syntax with sample code known to work

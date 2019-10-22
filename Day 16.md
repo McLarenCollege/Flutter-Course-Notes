@@ -13,4 +13,4 @@
 3.  New York Times Modification
     - Use hero animation to animate the image from list to detail page
     - Implement pull to refresh on news list page
-    - Use image plugin to make the image interactive (zoom in and zoom out in separate screen)
+    -  **Stretch** Use image plugin to make the image interactive (zoom in and zoom out in separate screen)

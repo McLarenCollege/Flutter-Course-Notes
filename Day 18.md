@@ -9,7 +9,8 @@
 - Use **named routes** for navigation
 
 ![](screenshots/Registration%20App%20Demo.gif)
-
+![](screenshots/ChatAppLogin.png)
+![](screenshots/ChatApp%20Register.png)
 
 
 4. Stretch** Animal game extension

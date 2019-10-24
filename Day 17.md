@@ -15,7 +15,7 @@
       - Ensure the blue color is correct 
   
  
-4.  New York Times Modification 
+4.  **Stretch** New York Times Modification 
     - Add tabs for India, Australia, USA, New Zealand and Indonesia as shown here:
     [https://youtu.be/zIW4oHZVNiI](https://youtu.be/zIW4oHZVNiI)
     

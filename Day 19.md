@@ -10,6 +10,8 @@
 
 4. Chat Screen in Chat App
     - Add new Screen `ChatApp`
+    
     ![](screenshots/ChatApp%20Layout.png)
+    
     - Add Loading Spinner while user is waiting to be logged in, [use this plugin](https://pub.dev/packages/modal_progress_hud)
     - Implement logout functionality

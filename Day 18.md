@@ -13,6 +13,6 @@
 ![](screenshots/ChatApp%20Register.png)
 
 
-4. Stretch** Animal game extension
+4. **Stretch** Animal game extension
     - Ask for user's choice and add it to knowledge base (add nodes)
     

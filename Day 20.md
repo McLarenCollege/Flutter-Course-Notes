@@ -14,5 +14,5 @@
     
     ![](screenshots/Chat%20Bubble%20Multiple.png)
     
-4. **Stretch** Map showing current location
+4. **Stretch** Map App showing current location
     

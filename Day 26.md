@@ -19,3 +19,12 @@
 **Stage 2**: Implement search on list page just like flutter sample app
      
 ![](screenshots/timezoneList%20Search.jpeg)
+
+5. Add Search functionality to maps app
+
+Load the cities from this [json file](https://github.com/lutangar/cities.json/blob/master/cities.json)
+
+Get rid of the list of cities on page
+Have a search button which navigates to search page, show the list of 
+cities as and when user types
+Have a read of this article to [handle json data](https://flutter.dev/docs/cookbook/networking/background-parsing#4-move-this-work-to-a-separate-isolate)

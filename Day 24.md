@@ -8,7 +8,7 @@
      ![](screenshots/timezonePicker.jpeg)
      
      But we want to merge the region and timezone property
-     so it should be: India/Kolkata (GMT+5.30)/1.00 PM
+     so it should be: Asia/Kolkata (GMT+5.30)
      
      When this item is clicked it should take me to list of all available timezones
      

@@ -20,7 +20,7 @@
      
 ![](screenshots/timezoneList%20Search.jpeg)
 
-5. Add Search functionality to maps app
+5. **Stretch** Add Search functionality to maps app
 
 Load the cities from this [json file](https://github.com/lutangar/cities.json/blob/master/cities.json)
 

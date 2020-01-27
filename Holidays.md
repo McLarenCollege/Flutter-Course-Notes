@@ -10,3 +10,9 @@
 
 
 ## Course Ends - 30th December
+
+- 21st February - Maha Shivratri
+- 9th & 10th March - Holi
+- 2nd April - Ram Navami
+- 7th May - Buddha Purnima
+

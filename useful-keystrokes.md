@@ -24,6 +24,7 @@
 | Alt + Insert | Command + N | Generate Code (Constructor, getter, setter)|
 | Control + / | Command + / | Line Comment or Uncomment |
 | Control + '+' or '-'  | Command + '+' or '-' | Collapse or expand code blocks (equivalent of clicking plus/minus on side)|
+| Control + D | Command + D | Duplicate a line |
 
 ## Other useful features
 1. Collapse large if/try blocks (consider refactoring to make them a separate method)

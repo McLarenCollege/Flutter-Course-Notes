@@ -12,7 +12,9 @@
 ## Course Ends - 30th December
 
 - 21st February - Maha Shivratri
-- 9th & 10th March - Holi
-- 2nd April - Ram Navami
+- 10th March - Holi
+- 10th April - Good Friday
+- 13th April - Vaisakhi / Easter Monday
+- 14th April - Vaisakhadi / Bahag Bihu / Dr B. R. Ambedkar Jayanti
 - 7th May - Buddha Purnima
 

@@ -9,8 +9,8 @@
 
 - 21st February - Maha Shivratri
 - 10th March - Holi
-- 10th April - Good Friday
-- 13th April - Vaisakhi / Easter Monday
-- 14th April - Vaisakhadi / Bahag Bihu / Dr B. R. Ambedkar Jayanti
+- 10th April - Good Friday (*Half Day*)
+- 13th April - Vaisakhi / Easter Monday (*Half Day*)
+- 14th April - Vaisakhadi / Bahag Bihu / Dr B. R. Ambedkar Jayanti (*Half Day*)
 - 7th May - Buddha Purnima
 

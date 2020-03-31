@@ -7,10 +7,6 @@
 - 31st December - 2nd January, 2020 - Holiday
 
 
-
-
-## Course Ends - 30th December
-
 - 21st February - Maha Shivratri
 - 10th March - Holi
 - 10th April - Good Friday

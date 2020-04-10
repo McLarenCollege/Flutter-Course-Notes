@@ -1,7 +1,7 @@
 # Network Request Challenge
 
-Write an app which when displays 'Welcome' status message and a floating action button. 
-When the app is loaded it begins making an HTTP request to this URL: http://slowwly.robertomurray.co.uk/delay/3000/url/http://www.google.co.uk
+Write an app which displays a 'Welcome' status message and a floating action button. 
+When the app is loaded it begins making an HTTP request to this URL: http://slowwly.robertomurray.co.uk/delay/8000/url/http://www.google.co.uk
 
 When the user presses the floating action button, it does the following: 
 - While the pending HTTP request is not complete, it displays a spinner instead of status text and makes the button disabled. 

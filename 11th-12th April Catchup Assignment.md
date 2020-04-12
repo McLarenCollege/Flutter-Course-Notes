@@ -7,9 +7,7 @@ When the user presses the floating action button, it does the following:
 - While the pending HTTP request is not complete, it displays a spinner instead of status text and makes the button disabled. 
 - Then when the HTTP is completed it displays the status code of the request.
 
-Note that the app will NOT display the status code unless the user presses the button. 
-
-Also if the HTTP request has completed when the user presses the button it will immediately display the status code.
+Note that **the HTTP request begins when the app is loaded, not when the user presses the button**. Also the app will NOT display the status code unless the user presses the button. Also if the HTTP request has completed when the user presses the button it will immediately display the status code.
 
 
 ### Screenshots:

@@ -2,6 +2,10 @@
 
 # 1. By pushing the build folder.
 
+- in `package.json` file add 'homepage' property below 'version' property, and set it equal to 'https://yourUsername.github.io/react_web_repo'
+```
+homepage: "https://yourUsername.github.io/react_web_repo",
+```
 - Open project in webstorm and in terminal run `npm run build`. 
 - This will create a build folder.
 - Now open that build folder separately in `webstorm`

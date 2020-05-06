@@ -12,5 +12,5 @@
 - 10th April - Good Friday (*Half Day*)
 - 13th April - Vaisakhi / Easter Monday (*Half Day*)
 - 14th April - Vaisakhadi / Bahag Bihu / Dr B. R. Ambedkar Jayanti (*Half Day*)
-- 7th May - Buddha Purnima
+- 1st May - Labour Day
 

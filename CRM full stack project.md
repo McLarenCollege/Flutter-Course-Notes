@@ -14,3 +14,4 @@
     - return 403 if user is not logged in and redirect user to `/login` endpoint
 - When save new customer request is sent, add owner property which is equal to `userID` to be retrieved from session info
 - On customers endpoint only display the customers which belongs to logged in user
+- Add logout functionality, on logout session should be set to null

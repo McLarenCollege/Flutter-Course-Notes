@@ -9,4 +9,4 @@
 
 ![](./screenshots/CRMFlutterLoginScreen.png)
 
-![](./screenshots/CRMCustomersListScreen.png)
+![](./screenshots/CRMFlutterCustomersList.png)

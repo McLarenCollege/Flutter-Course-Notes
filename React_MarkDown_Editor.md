@@ -7,5 +7,6 @@ It should be able to:
 - convert ### at beginning of line to `<h3>`
 - convert - at beginning of line to `<li>`
 - convert --- at beginning of line to `<hr>`
+- convert '/n' to `<br>`
 
 ![](./screenshots/ReactMarkDownEditor.png)

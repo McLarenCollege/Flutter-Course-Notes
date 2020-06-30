@@ -16,3 +16,8 @@
  5. Print debugging (or with proper IDE debugger).
  6. Try different way to write the same logic.  For example, use standard function instead of anonymous closure (you will encounter this problem when trying to sort in reverse order)
  7. Write a simple app which demonstrates the problem, then post a question on StackOverflow with code for the sample app.  (If you cannot demonstrate the problem with a sample app, compare it to your full app which contains the error)
+
+# Diagrams
+1. Object diagrams
+2. Sequence diagram
+3. Algorithm sketches with example

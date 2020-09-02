@@ -5,7 +5,7 @@ This is a document to review the jobs you select to apply to on Upwork, and the 
 
 ### Step 1: Create a good Upwork profile
 
-Once you've read throught [this](https://github.com/McLarenCollege/Flutter-Course-Teacher-Notes/blob/master/Settingup_upwork(overview).md) article and finished setting up your profile, use the below checklists to make Upwork successful for you!
+Once you've read throught [this](https://github.com/McLarenCollege/Flutter-Course-Notes/blob/master/How%20to%20set-up%20your%20Upwork%20profile.md) article and finished setting up your profile, use the below checklists to make Upwork successful for you!
 
 ### Step 2: Identify good jobs to apply for
 

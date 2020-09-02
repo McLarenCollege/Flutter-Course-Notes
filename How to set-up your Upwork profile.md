@@ -1,7 +1,7 @@
 
 Your Upwork profile is critical for landing jobs as a freelancer. Clients use it to decide who to interview, and they also invite freelancers to interview directly after finding them in search results. So if you create an Upwork profile that gets seen and clicked in search results, you’ll start getting interviews without having to even send out proposals!
 
-**We hope you've already read [this checklist](https://github.com/McLarenCollege/Flutter-Course-Teacher-Notes/blob/master/job_ready_checklist.md) to have a great profile in general for any job serach or freelancer platform!**
+**We hope you've already read [this checklist](./job_ready_checklist.md) to have a great profile in general for any job serach or freelancer platform!**
 
 Completing your profile doesn’t just give clients the info they need, it also helps Upwork match you with more relevant projects. It's also required if you want to achieve Rising Talent or Top Rated status. But what does a top-notch profile look like?
 
@@ -23,7 +23,7 @@ Completing your profile doesn’t just give clients the info they need, it also 
 Some more useful tips on how to make your profile stand out can be [read here](https://support.upwork.com/hc/en-us/articles/211063208-Sample-Profiles-and-Best-Practices) on this detailed guide from Upwork Support.
 
 ### Step 2: Win jobs on Upwork! 
-Read [this document](https://github.com/McLarenCollege/Flutter-Course-Teacher-Notes/blob/master/How%20to%20Win%20Good%20Jobs%20on%20Upwork.md) on "How to win jobs on Upwork".
+Read [this document](./How%20to%20Win%20Good%20Jobs%20on%20Upwork.md) on "How to win jobs on Upwork".
 
 *Most clients don’t ask how much experience you have or look at your resume.  They often just glance at your portfolio page. What they really want to see is one single sample that’s very similar to what they need. That way, they feel confident you can get their job done.*
 

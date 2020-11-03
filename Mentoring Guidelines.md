@@ -30,7 +30,14 @@
 - Remain patient and calm during the session
 - Keep an open mind towards problem solving and receiving feedback from your mentees
 
+### Step-by-step Guide
+1. Student describes their understanding of the problem, including with an example.  Don't need detailed algorithm at this stage.  Also would be good if student describes from memory.
+2. Student walks through algorithm with an example - mentor tries to 'break' it
+3. Mentor walks through her algnorithm with an example
+4. Student walks through mentor's algorithm with a different example - mentor tries to 'break' it by making changes to input 'on the fly'
+
 ### Discussing Algorithm
+- Make sure that you receive and give verbal feedback.  eg. when one person explains something, the other peson should be saying "uh huh", "ok", "yep", "umm...wait", "I don't understand", etc.
 - Make sure students understand the problem 
     - Ask them to describe the problem by taking an example
     - Ask(or help) them in drawing a diagram
